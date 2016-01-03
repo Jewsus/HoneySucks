@@ -1,5 +1,5 @@
 # HoneySucks
-A variation of aMoka's LavaSucks plugin
+A variation of aMoka's LavaSucks plugin. Original can be found here https://github.com/aMoka/LavaSucks
  
 Toggles liquid honey from spawning out of destroyed hive blocks.
 
