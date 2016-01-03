@@ -99,7 +99,7 @@ namespace HoneySucks
 						TSPlayer.All.SendTileSquare(x, y);
 						TShock.Players[args.Msg.whoAmI].SendTileSquare(x, y);
 						
-						//and special summon hellstone to the field
+						//and special summon honey block to the field
 						Item itm = new Item();
 						itm.SetDefaults(1125);
 						int itemid = Item.NewItem(x * 16, y * 16, itm.width, itm.height, itm.type, 1, true, 0, true);
